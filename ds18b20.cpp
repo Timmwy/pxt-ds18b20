@@ -136,6 +136,7 @@ int Temperature(int p) {
       case 2: pin = &uBit.io.P2; break;
       case 5: pin = &uBit.io.P5; break;
       case 8: pin = &uBit.io.P8; break;
+      case 9: pin = &uBit.io.P9; break;
       case 11: pin = &uBit.io.P11; break;
       case 12: pin = &uBit.io.P12; break;
       case 13: pin = &uBit.io.P13; break;
