@@ -18,6 +18,8 @@ namespace DS18B20 {
        pin5 = 5,
        //% block=pin8
        pin8 = 8,
+       //% block=pin9
+       pin8 = 9,
        //% block=pin11
        pin11 = 11,
        //% block=pin12
